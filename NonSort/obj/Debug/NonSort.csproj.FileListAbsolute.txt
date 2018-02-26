@@ -1,0 +1,6 @@
+D:\C#\Course\NonSort\NonSort\bin\Debug\NonSort.exe.config
+D:\C#\Course\NonSort\NonSort\bin\Debug\NonSort.exe
+D:\C#\Course\NonSort\NonSort\bin\Debug\NonSort.pdb
+D:\C#\Course\NonSort\NonSort\obj\Debug\NonSort.csprojResolveAssemblyReference.cache
+D:\C#\Course\NonSort\NonSort\obj\Debug\NonSort.exe
+D:\C#\Course\NonSort\NonSort\obj\Debug\NonSort.pdb
